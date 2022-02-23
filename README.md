@@ -8,7 +8,7 @@
 ## Why it matters
 - **Hyperscalers offer a large number of services in the public cloud that form the backbone of many IoT initiatives.**
 
-The three leading global hyperscalers (**AWS, Microsoft**, and **Google Cloud**) hold more than 80% market share for global public cloud services specifically for IoT workloads according to the latest research from IoT Analytics: <ins>Cloud Computing for IoT Market Report 2021–2026</ins>, a 135-page report on the current state and trends of the IoT cloud computing market.
+The three leading global hyperscalers (**AWS, Microsoft**, and **Google Cloud**) hold more than 80% market share for global public cloud services specifically for IoT workloads according to the latest research from IoT Analytics: <ins>[ Cloud Computing for IoT Market Report 2021–2026](https://iot-analytics.com/product/cloud-computing-for-iot-market-report-2021-2026/)</ins>, a 135-page report on the current state and trends of the IoT cloud computing market.
 
 Although offering public cloud services for connecting IoT devices is not (yet) a major driver for the businesses of these companies, IoT services and related cloud infrastructure investments are expected to grow faster than general public cloud spending and will thus increase in strategic importance during the coming years as public cloud becomes a multi-trillion-dollar market.
 
