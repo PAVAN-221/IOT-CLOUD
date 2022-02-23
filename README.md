@@ -147,3 +147,14 @@ This report provides answers to the following questions (among others):
 The sample of the report gives you a holistic overview of the available analysis (outline, key slides). The sample also provides additional context on the topic and describes the methodology of the analysis. You can download the sample here:\
 
 [```Download Now```](https://iot-analytics.com/product/cloud-computing-for-iot-market-report-2021-2026/#request-form-cloud-computing-for-iot-market-report)
+
+  
+## Related articles
+You may also be interested in the following recent articles:
+
+- <ins>[The case for a $2 trillion addressable public cloud market](https://iot-analytics.com/cloud-market/)</ins><br/>
+- <ins>[10 IoT technology trends to watch in 2022](https://iot-analytics.com/iot-technology-trends/)</ins><br/>
+- <ins>[IoT technology market attractiveness: Where to invest going into 2022](https://iot-analytics.com/iot-technology-market-attractiveness-where-to-invest-going-into-2022/)</ins><br/>
+- <ins>[IoT integrators: The secret backbone of the IoT – Insights from 700+ companies providing professional IoT services](https://iot-analytics.com/iot-integrators-secret-backbone-iot/)</ins><br/>
+  
+Subscribe to our <ins>[newsletter](https://iot-analytics.com/newsletter-sign-up/)</ins> and follow us on <ins>[LinkedIn](https://www.linkedin.com/company/iot-analytics/)</ins> and <ins>[Twitter](https://twitter.com/analyticsiot)</ins> to stay up-to-date on the latest trends shaping the IoT markets. For complete enterprise IoT coverage with access to all of IoT Analytics’ paid content & reports including dedicated analyst time check out <ins>[Enterprise subscription.](https://iot-analytics.com/pricing/#subscription-plans)</ins>
