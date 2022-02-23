@@ -146,4 +146,4 @@ This report provides answers to the following questions (among others):
   
 The sample of the report gives you a holistic overview of the available analysis (outline, key slides). The sample also provides additional context on the topic and describes the methodology of the analysis. You can download the sample here:\
 
-[Download Now](https://iot-analytics.com/product/cloud-computing-for-iot-market-report-2021-2026/#request-form-cloud-computing-for-iot-market-report)
+[```Download Now```](https://iot-analytics.com/product/cloud-computing-for-iot-market-report-2021-2026/#request-form-cloud-computing-for-iot-market-report)
