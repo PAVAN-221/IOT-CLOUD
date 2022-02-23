@@ -74,10 +74,10 @@ Therefore, it is not surprising that AWS has the largest portfolio of IoT-focuse
 
 The new CEO, Adam Selipsky’s, approach to tapping the cloud market differs from that of his predecessor, Andy Jassy. Selipsky’s strategy involves expanding AWS’ offerings beyond general-purpose cloud technologies into industry- and use-case-specific services. IoT is a key area of focus, as can be ascertained from the recent series of IoT-specific releases and his statements.
   
-> *“We are going to work aggressively on ‘internet of things’ solutions, on ML solutions and these horizontal use cases and applications as well as bundle it together in ways that are attractive to solving customer problems.”*
+> *“We are going to work aggressively on ‘internet of things’ solutions, on ML solutions and these horizontal use cases and applications as well as bundle it together in ways that are attractive to solving customer problems.”*<br/>
 **Adam Selipsky, CEO at AWS, 28 November 2021, to Silicon Angle**
   
-> *“We’re building ever more powerful capabilities, pushing the edge of the cloud to new places with things like 5G and IoT. We’re driving towards seamless integration of data, analytics and machine learning that will be transformative. We’re tailoring services and applications to specific customer use cases and industries. The possibilities there are endless.”*
+> *“We’re building ever more powerful capabilities, pushing the edge of the cloud to new places with things like 5G and IoT. We’re driving towards seamless integration of data, analytics and machine learning that will be transformative. We’re tailoring services and applications to specific customer use cases and industries. The possibilities there are endless.”*<br/>
 **Adam Selipsky, CEO at AWS, at AWS re:Invent 2021**
   
 ## AWS IoT in action:
@@ -140,3 +140,10 @@ This report provides answers to the following questions (among others):
 - How do typical IoT public cloud architectures look like?<br/>
 - How do IoT public cloud architectures look like in specific projects?<br/>
 - And more…<br/>
+
+  
+## Sample
+  
+The sample of the report gives you a holistic overview of the available analysis (outline, key slides). The sample also provides additional context on the topic and describes the methodology of the analysis. You can download the sample here:\
+
+[Download Now](https://iot-analytics.com/product/cloud-computing-for-iot-market-report-2021-2026/#request-form-cloud-computing-for-iot-market-report)
